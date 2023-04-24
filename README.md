@@ -1,6 +1,6 @@
 # IonDatetime Darkmode Test
 
-This repository is used to test if Ionic's `IOnDatetime` works correctly with darkmode.
+This repository is used to test if Ionic's `IonDatetime` works correctly with darkmode.
 
 Useful links:
 - https://ionicframework.com/docs/api/datetime
